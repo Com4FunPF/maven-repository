@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ms.hlj</groupId>
   <artifactId>pfsdk</artifactId>
-  <version>1.0</version>
+  <version>0.0.6</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -29,25 +29,6 @@
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-auth</artifactId>
       <version>11.8.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.appsflyer</groupId>
-      <artifactId>af-android-sdk</artifactId>
-      <version>4+</version>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>com.android.installreferrer</groupId>
-      <artifactId>installreferrer</artifactId>
-      <version>1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
