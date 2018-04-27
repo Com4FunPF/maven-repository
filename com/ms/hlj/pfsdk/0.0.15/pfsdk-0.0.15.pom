@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ms.hlj</groupId>
   <artifactId>pfsdk</artifactId>
-  <version>0.0.14</version>
+  <version>0.0.15</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -34,9 +34,6 @@
     <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-auth</artifactId>
-<<<<<<< HEAD
-      <version>11.8.0</version>
-=======
       <version>15.0.0</version>
       <scope>compile</scope>
     </dependency>
@@ -56,13 +53,6 @@
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-analytics</artifactId>
       <version>15.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.ms.monetize</groupId>
-      <artifactId>monetize-sdk</artifactId>
-      <version>1.0.1</version>
->>>>>>> b7fb538d4a3a1090c922e1579f936ae08c00f989
       <scope>compile</scope>
     </dependency>
   </dependencies>
