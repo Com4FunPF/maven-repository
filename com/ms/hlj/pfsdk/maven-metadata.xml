@@ -3,7 +3,7 @@
   <groupId>com.ms.hlj</groupId>
   <artifactId>pfsdk</artifactId>
   <versioning>
-    <release>0.0.19</release>
+    <release>0.0.20</release>
     <versions>
       <version>0.0.14</version>
       <version>0.0.15</version>
@@ -11,7 +11,8 @@
       <version>0.0.17</version>
       <version>0.0.18</version>
       <version>0.0.19</version>
+      <version>0.0.20</version>
     </versions>
-    <lastUpdated>20180427040016</lastUpdated>
+    <lastUpdated>20180427041045</lastUpdated>
   </versioning>
 </metadata>
